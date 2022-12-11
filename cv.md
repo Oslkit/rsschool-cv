@@ -1,19 +1,13 @@
 # Alexey Karpunin
 
----
-
 ## Contacts:
 
----
-
-- Discord: [Найтруль#6731]
-- E-mail: [nightrole19@gmail.com]
+- Discord: Найтруль#6731
+- E-mail: [nightrole19@gmail.com](nightrole19@gmail.com)
 - GitHub: [Oslkit](https://github.com/Oslkit)
 - Telegram: [@Oslkit](https://t.me/Oslkit)
 
 ## About Me
-
----
 
 I am 27 years old and I want to become a front-end developer.
 
@@ -24,8 +18,6 @@ I am 27 years old and I want to become a front-end developer.
 
 ## Skills
 
----
-
 - HTML
 - CSS (SASS/SCSS, BEM)
 - Basic JavaScript
@@ -33,8 +25,6 @@ I am 27 years old and I want to become a front-end developer.
 - Avocode, Photoshop, Figma
 
 ## Code Example
-
----
 
 ```
 const getSumOfNumbers = (number, type='odd') => {
@@ -58,13 +48,10 @@ const getSumOfNumbers = (number, type='odd') => {
 
 ## Education
 
----
-
 - Moscow Aviation Institute
   - Technosphere safety
 
 ## Language
 
----
-
-- A2
+- Russian - native
+- English - A2
