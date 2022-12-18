@@ -1,2 +1,2 @@
-https://GITHUB-Oslkit.github.io/rsschool-cv/cv
-https://GITHUB-Oslkit.github.io/rsschool-cv/
+https://Oslkit.github.io/rsschool-cv/cv
+https://Oslkit.github.io/rsschool-cv/
